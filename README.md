@@ -4,6 +4,7 @@
 * Gabriela Mircea (McMaster)
 * Kirsta Stapelfeldt (UTSC)
 * Kelli Babcock (University of Toronto Libraries)	
+
 ## Terms of Reference
 * The name of the IIG is the Islandora Documentation Interest Group (IDIG)
 * The purpose of the Islandora Documentation Interest Group is to develop and communicate a common approach to building and updating documentation.
