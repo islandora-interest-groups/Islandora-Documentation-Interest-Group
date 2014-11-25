@@ -31,5 +31,5 @@
 * Melissa Anez (Islandora Foundation)
 * Ernie Gillis (Berklee College of Music)
 * Becky Yoose (Grinnell College)
-* Jaime Pinto
+* Jaime Pinto (SciNet - University of Toronto)
 * Robin Dean (Colorado Alliance of Research Libraries)
