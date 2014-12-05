@@ -1,4 +1,6 @@
 # Islandora-Documentation-Interest-Group
+
+For more informationm please visit our [wiki](https://github.com/Islandora/Islandora-Documentation-Interest-Group/wiki)
 ======================================
 ## Convenors
 * Gabriela Mircea (McMaster)
