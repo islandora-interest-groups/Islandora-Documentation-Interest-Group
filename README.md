@@ -36,3 +36,4 @@
 * Becky Yoose (Grinnell College)
 * Jaime Pinto (SciNet - University of Toronto)
 * Robin Dean (Colorado Alliance of Research Libraries)
+* Bryan Brown (Florida State University)
