@@ -38,3 +38,4 @@
 * Robin Dean (Colorado Alliance of Research Libraries)
 * Bryan Brown (Florida State University)
 * Megan Kudzia (Albion College)
+* Sean Cavanaugh (University of Saskatchewan)
