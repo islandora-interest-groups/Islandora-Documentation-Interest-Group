@@ -40,3 +40,4 @@
 * Megan Kudzia (Albion College)
 * Sean Cavanaugh (University of Saskatchewan)
 * Mike Nason (University of New Brunswick)
+* Wilhelmina Randtke (FLVC)
