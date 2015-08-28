@@ -41,3 +41,4 @@
 * Sean Cavanaugh (University of Saskatchewan)
 * Mike Nason (University of New Brunswick)
 * Wilhelmina Randtke (FLVC)
+* Janice Banser (Simon Fraser University)
