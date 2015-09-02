@@ -37,7 +37,7 @@
 * Jaime Pinto (SciNet - University of Toronto)
 * Robin Dean (Colorado Alliance of Research Libraries)
 * Bryan Brown (Florida State University)
-* Megan Kudzia (Albion College)
+* Megan Kudzia (Michigan State University)
 * Sean Cavanaugh (University of Saskatchewan)
 * Mike Nason (University of New Brunswick)
 * Wilhelmina Randtke (FLVC)
