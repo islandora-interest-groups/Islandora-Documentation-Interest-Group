@@ -3,10 +3,9 @@
 ======================================
 * For more information please visit our [wiki](https://github.com/Islandora/Islandora-Documentation-Interest-Group/wiki)
 
-## Convenors
+## 2015 Convenors
 * Gabriela Mircea (McMaster)
-* Kirsta Stapelfeldt (UTSC)
-* Kelli Babcock (University of Toronto Libraries)	
+* Robin Dean (Michigan State University)
 
 ## Terms of Reference
 * The name of the IIG is the Islandora Documentation Interest Group (IDIG)
@@ -26,19 +25,25 @@
 * The interest group will meet once a month virtually (eg. via Skype). A call for agenda items will be posted to the Islandora Google Group 1 week prior to the meeting. The convenor will appoint a note taker for the meeting and meeting notes will be made available at some url.
 * The convenors will produce a report to be submitted to the Islandora Roadmap Committee following the IDIG’s meeting.
 
-## Membership
-* Gabriela Mircea (McMaster)
-* Kirsta Stapelfeldt (UTSC)
-* Lingling Jiang (UTSC)
-* Kelli Babcock (University of Toronto Libraries)	
+## Current Membership (Updated September 2015)
+
 * Melissa Anez (Islandora Foundation)
-* Ernie Gillis (Berklee College of Music)
-* Becky Yoose (Grinnell College)
-* Jaime Pinto (SciNet - University of Toronto)
-* Robin Dean (Colorado Alliance of Research Libraries)
-* Bryan Brown (Florida State University)
-* Megan Kudzia (Michigan State University)
-* Sean Cavanaugh (University of Saskatchewan)
-* Mike Nason (University of New Brunswick)
-* Wilhelmina Randtke (FLVC)
+* Kelli Babcock (University of Toronto Libraries)
 * Janice Banser (Simon Fraser University)
+* Sean Cavanaugh (University of Saskatchewan)
+* Robin Dean (Michigan State University)
+* Lingling Jiang (UTSC)
+* Megan Kudzia (Michigan State University)
+* Gabriela Mircea (McMaster)
+* Mike Nason (University of New Brunswick)
+* Jaime Pinto (SciNet - University of Toronto)
+* Wilhelmina Randtke (FLVC)
+
+## Past Membership
+
+We would like to recognize the contributions of these past members of the Docs IG.
+
+* Bryan Brown 
+* Ernie Gillis 
+* Kirsta Stapelfeldt (Convenor)
+* Becky Yoose 
