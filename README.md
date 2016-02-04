@@ -30,6 +30,7 @@ Specific goals, activities, and outcomes include:
 * Mike Nason (University of New Brunswick)
 * Jaime Pinto (SciNet - University of Toronto)
 * Wilhelmina Randtke (FLVC)
+* Don Richards (University of Tennessee Knoxville)
 
 ## Past Membership
 
