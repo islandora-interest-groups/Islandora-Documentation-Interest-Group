@@ -20,11 +20,13 @@ Goal: modify the current practice for wiki documentation versioning to align it 
 * The /ISLANDORA/START page always contains the most recent version of the documentation. 
 * The START documentation will function like the 7.x branch of the code, constantly being updated, including for the purposes of JIRA tickets/bug fixes and releases.
 * The release versions of the documentation are treated as snapshots of /ISLANDORA that are made on release day and not updated after the release. (Versions with numbers are not edited after they are created.)
-New wiki menu structure
+
+### New wiki menu structure
 * Islandora 7.x (Most Current – the only version that can be modified)
 * Islandora 7.x-1.7 (Snapshot of 7.x made on release date and not modified after)
 * Islandora 7.x-1.6 (Snapshot of 7.x made on 2016-02-23 and not modified after)
-New wiki process during releases
+
+### New wiki process during releases
 1. On code/documentation release day, a snapshot is made of 7.x (ISLANDORA/START) and renamed with the same version number as the new release.
 2. Documenters continue to update 7.x until the next release.
 
