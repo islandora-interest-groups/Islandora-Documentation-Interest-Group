@@ -7,6 +7,7 @@
 * Regrets: 
 
 ## 1) Approve minutes from last time
+* [Documentation Interest Group - February 23, 2016 - 3:00 PM Eastern](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2016/Meeting-Notes-2016-02-23.md)
 
 ## 2) Islandora 7.x-1.7 Release Team
 * [1-page documentation tip sheet draft](https://docs.google.com/document/d/1Daxss3yk8LREdh2_h2LsbSm12qcsoPJ0cTe9yAr0bU4/edit#) 
