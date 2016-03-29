@@ -29,7 +29,7 @@ Specific goals, activities, and outcomes include:
 * Gabriela Mircea (McMaster)
 * Mike Nason (University of New Brunswick)
 * Jaime Pinto (SciNet - University of Toronto)
-* Wilhelmina Randtke (FLVC)
+* Wilhelmina Randtke (Florida Academic Library Services Cooperative)
 * Don Richards (University of Tennessee Knoxville)
 
 ## Past Membership
