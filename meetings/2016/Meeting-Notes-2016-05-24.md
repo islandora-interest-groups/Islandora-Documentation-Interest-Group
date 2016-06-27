@@ -21,7 +21,8 @@
 * Descriptions have been added to all Islandora GitHub repos.
 
 ## 4) Participation
-* Issue a call for participation in DIG--need an ambassador to the regular committers meetings and to the CLAW meetings
+* Issue a call for participation in DIG--need an ambassador to the regular committers' meetings and to the CLAW meetings.
+* To encourage participation, move discussions to the main Islandora list. We should use a bracketed "tag" in the subject line for documentation-related messages. Suggestion: `[DIG]`
 
 ## 4) Next Meeting
 * June 28, 2016 @ 3 pm EST
