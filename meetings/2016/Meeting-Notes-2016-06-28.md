@@ -17,16 +17,17 @@
 * Work on release documentation.
 
 
-## 2) Islandora 7.x-1.7 release
+## 3) Islandora 7.x-1.7 release
 * [Release team spreadsheet](https://docs.google.com/spreadsheets/d/1PRv2Xo-sNE_sDJHUT5OvTXmNiSHnkdJgwo7VsFkIUgY/edit?pref=2&pli=1#gid=2093695402)
 * Turning Peter Murray's guides about solution packs into a wiki page (https://05539828571457436551.googlegroups.com/attach/3328a5d292546/Islandora%20Content%20Models%20and%20What%20to%20Use%20When.md?part=0.1&view=1&vt=ANaJVrFE9ovZWdzNwBALS6xIGCs8RaOb9TZkRGAlxO_KJ48RiVV7ec4GBDXzY6z1633fASTh6PwNF-bLJNKFEs-L7B8lyQln8rN4cMzLZn8fOAulu6muqJE)    
 
-## 3) Progress
+## 4) Progress
 * Progress on new participants
 * Progress on new documentation
 
+## 5) Interest Group reports for the Newsletter
 
-## 5) Next Meeting
+## 6) Next Meeting
 * July 26, 2016 @ 3 pm EST
 * Chair: Gabriela
 * Notes: Robin
