@@ -7,17 +7,26 @@
 * Robin Dean (Michigan State University)
 
 ## Terms of Reference
-* The name of the IIG is the Islandora Documentation Interest Group (IDIG)
+* The name of the IIG is the Islandora Documentation Interest Group (DIG)
 * The purpose of the Islandora Documentation Interest Group is to coordinate the creation and maintenance of the Islandora community user documentation.
+
 Specific goals, activities, and outcomes include:
-  1. Establish best practices for Islandora documentation
-  2. Manage documentation updates during Islandora software releases
+  1. Establish best practices for Islandora documentation.
+  2. Manage documentation updates during Islandora software releases.
   3. Assist Islandora users and contributors who have questions about the documentation.
   4. Resolve documentation-related issues reported in Islandora issue tracking systems.
   5. Work collaboratively with Islandora community members who create in-code documentation and README files to improve consistency of documentation.
-* The interest group will meet once a month virtually. A call for agenda items will be posted to the Islandora DIG mailing list 1 week prior to the meeting. The convenor will appoint a note taker for the meeting and meeting notes will be made available online after the meeting.
-* An IDIG convenor will report to the Islandora Roadmap Committee following the IDIG’s meeting.
+  
+## Meetings 
+The interest group meets monthly in a conference call.
+* The regular meeting time is 4th Tuesdays of each month, 3-4 PM Eastern time. 
+* Meetings are held on Skype. To join a meeting, contact Melissa Anez.
+* Meeting notices and agenda will be posted to the Islandora community mailing list the day before the meeting. 
+* A convenor will appoint a note taker for the meeting and meeting notes will be made available online after the meeting.
+* A convenor will report to the Islandora Roadmap Committee following the DIG’s meeting.
 
+## Contact the group
+* Communicate with the group by emailing the Islandora community mailing list (islandora at googlegroups dot com) with [DIG] in the subject line. 
 
 ## Current Membership (Updated December 2015)
 
