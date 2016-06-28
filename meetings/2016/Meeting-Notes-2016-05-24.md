@@ -1,14 +1,22 @@
 # Documentation Interest Group - May 24, 2016 - 3:00 PM Eastern
 
 ## Attending:
+<<<<<<< HEAD
 * Chair: Robin
 * Notes: Gabriela
 * Attending: Melissa
+=======
+* Chair: Gabriela
+* Notes: Robin
+* Attending: Robin, Gabriela, Melissa
+>>>>>>> origin/master
 
 ## 1) Approve minutes from last time
 * Minutes approved
 * [Documentation Interest Group - March 22, 2016 - 3:00 PM Eastern](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2016/Meeting-Notes-2016-03-22.md)
+* Approved
 
+<<<<<<< HEAD
 
 ## 2) Documentation tip sheet for release
 * all done?
@@ -25,6 +33,20 @@
 ## 4) Participation
 * send call to the community, ask for help with specific roles (e.g. attending the commiters calls, a CLAW documentation ambasador)
 * documentation for CLAW, can we get involded at this stage? 
+=======
+## 2) New documentation needed
+* Guidelines for documenters during releases
+* Peter Murray's contribution about solution packs--can we convert this to a wiki page?
+
+## 3) Islandora 7.x-1.7 release
+* [Release team spreadsheet](https://docs.google.com/spreadsheets/d/1PRv2Xo-sNE_sDJHUT5OvTXmNiSHnkdJgwo7VsFkIUgY/edit?pref=2&pli=1#gid=2093695402)
+* Release looks pretty good, will keep an eye on the last few undone items in case we need to step in.
+* The 7.x-1.x. Committers would like the DIG to review/address the following: https://jira.duraspace.org/browse/ISLANDORA-1704
+* Descriptions have been added to all Islandora GitHub repos.
+
+## 4) Participation
+* Issue a call for participation in DIG--need an ambassador to the regular committers' meetings and to the CLAW meetings.
+>>>>>>> origin/master
 * To encourage participation, move discussions to the main Islandora list. We should use a bracketed "tag" in the subject line for documentation-related messages. Suggestion: `[DIG]`
 
 ## 5) Next Meeting
@@ -36,6 +58,10 @@
 	* Progress on new participants
 
 ## Action items:
+<<<<<<< HEAD
 * Gabriela - send call for participation out.
 * Robin - to turn Peter's guides into a wiki page.
 * Work on release documentation.
+=======
+
+>>>>>>> origin/master
