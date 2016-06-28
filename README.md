@@ -1,7 +1,5 @@
 # Islandora-Documentation-Interest-Group
 
-======================================
-
 ## 2016 Convenors
 * Gabriela Mircea (McMaster)
 * Robin Dean (Michigan State University)
