@@ -27,7 +27,7 @@
 ## 4) Participation
 * send call to the community, ask for help with specific roles (e.g. attending the commiters calls, a CLAW documentation ambasador)
 * documentation for CLAW, can we get involded at this stage? 
-* To encourage participation, move discussions to the main Islandora list. We should use a bracketed "tag" in the subject line for documentation-related messages. Suggestion: `[DIG]`
+* To encourage participation, move discussions to the main Islandora list. We should use a bracketed "tag" in the subject line for documentation-related messages. From now on use: `[DIG]`
 
 
 ## 5) Next Meeting
