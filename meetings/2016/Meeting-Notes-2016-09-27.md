@@ -10,4 +10,4 @@
 
 
 ## Next Meeting
-* October 26, 2016 @ 3 pm EST
+* October 25, 2016 @ 3 pm EST
