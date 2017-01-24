@@ -1,8 +1,8 @@
 # Islandora-Documentation-Interest-Group
 
-## 2016 Convenors
+## 2017 Convenors
 * Gabriela Mircea (McMaster)
-* Robin Dean (Michigan State University)
+* Don Richards (University of Tennessee Knoxville)
 
 ## Terms of Reference
 * The name of the IIG is the Islandora Documentation Interest Group (DIG)
@@ -14,17 +14,17 @@ Specific goals, activities, and outcomes include:
   3. Assist Islandora users and contributors who have questions about the documentation.
   4. Resolve documentation-related issues reported in Islandora issue tracking systems.
   5. Work collaboratively with Islandora community members who create in-code documentation and README files to improve consistency of documentation.
-  
-## Meetings 
-The interest group meets monthly in a conference call.
-* The regular meeting time is 4th Tuesdays of each month, 3-4 PM Eastern time. 
+
+## Meetings
+This interest group meets on an as-needed basis to make decisions or work on documentation together.
+
+* Convenor(s) will call meetings when needed and share meeting agendas on the Islandora community mailing list.
 * Meetings are held on Skype. To join a meeting, contact Melissa Anez.
-* Meeting notices and agenda will be posted to the Islandora community mailing list the day before the meeting. 
 * A convenor will appoint a note taker for the meeting and meeting notes will be made available online after the meeting.
-* A convenor will report to the Islandora Roadmap Committee following the DIG’s meeting.
+* A convenor will submit occasional reports on interest group activities to the Islandora Roadmap Committee.
 
 ## Contact the group
-* Communicate with the group by emailing the Islandora community mailing list (islandora at googlegroups dot com) with [DIG] in the subject line. 
+* Communicate with the group by emailing the Islandora community mailing list (islandora at googlegroups dot com) with [DIG] in the subject line.
 
 ## Current Membership (Updated December 2015)
 
@@ -44,7 +44,7 @@ The interest group meets monthly in a conference call.
 We would like to recognize the contributions of these past members of the Docs IG.
 
 * Kelli Babcock
-* Bryan Brown 
-* Ernie Gillis 
+* Bryan Brown
+* Ernie Gillis
 * Kirsta Stapelfeldt (Convenor)
-* Becky Yoose 
+* Becky Yoose
