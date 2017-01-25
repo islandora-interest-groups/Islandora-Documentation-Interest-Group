@@ -38,6 +38,7 @@ This interest group meets on an as-needed basis to make decisions or work on doc
 * Jaime Pinto (SciNet - University of Toronto)
 * Wilhelmina Randtke (Florida Academic Library Services Cooperative)
 * Don Richards (University of Tennessee Knoxville)
+* Jennifer Eustis (University of Connecticut)
 
 ## Past Membership
 
