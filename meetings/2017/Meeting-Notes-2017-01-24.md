@@ -17,8 +17,8 @@
 * no more standing meetings
 * more adhoc meetings that are task based
 * more working meetings around release time
-* update the terms of the group regading the meetings schedule - Robin
-* ask the communit to add DIG in the subject line for all documentation related emails for easier monitoring
+* update the terms of the group regarding the meetings schedule - Robin
+* ask the community to add DIG in the subject line for all documentation related emails for easier monitoring
 * add links to https://github.com/Islandora/islandora/wiki/How-To-Audit,-Document,-or-Test-an-Islandora-Release and https://wiki.duraspace.org/display/ISLANDORA/Contribute to the DIG github
 
 
