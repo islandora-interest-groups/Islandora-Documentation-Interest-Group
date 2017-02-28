@@ -39,6 +39,7 @@ This interest group meets on an as-needed basis to make decisions or work on doc
 * Wilhelmina Randtke (Florida Academic Library Services Cooperative)
 * Don Richards (University of Tennessee Knoxville)
 * Jennifer Eustis (University of Connecticut)
+* Robin Naughton (The New York Academy of Medicine)
 
 ## Past Membership
 
