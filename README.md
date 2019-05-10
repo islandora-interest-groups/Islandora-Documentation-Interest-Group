@@ -1,3 +1,5 @@
+**This Interest Group is currently on hiatus. If you are interested in reviving it, please contact community@islandora.ca**
+
 # Islandora-Documentation-Interest-Group
 
 ## 2017 Convenors
