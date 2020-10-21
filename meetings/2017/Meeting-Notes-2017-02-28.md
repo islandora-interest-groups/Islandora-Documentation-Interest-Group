@@ -6,7 +6,7 @@
 * Attending: Don Richards, Gabriela Mircea, Melissa Anez, Robin Naughton, Audrey, Janice Banser
 
 ## 1. Approve minutes from last meeting
-* [Documentation Interest Group - January 24, 2017 - 3:00 PM EST] (https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2017/Meeting-Notes-2017-01-24.md) 
+* [Documentation Interest Group - January 24, 2017 - 3:00 PM EST] (https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/main/meetings/2017/Meeting-Notes-2017-01-24.md) 
 * Approved 
 
 ## 2. TO DO from last meeting 

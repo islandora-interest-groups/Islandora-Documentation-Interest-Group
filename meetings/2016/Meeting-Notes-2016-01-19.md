@@ -7,7 +7,7 @@
 * Attending: Melissa
 
 ## 1) Approve minutes from last time
-* [Minutes]  https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2015/Meeting-Notes-2015-12-15.md
+* [Minutes]  https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/main/meetings/2015/Meeting-Notes-2015-12-15.md
 
 ## 2) Welcome new members
 * no new members in attendance

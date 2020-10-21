@@ -9,7 +9,7 @@
 
 ## 1) Approve minutes from last meeting
 
-* [Documentation Interest Group - May 24, 2016 - 3:00 PM Eastern](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2016/Meeting-Notes-2016-05-24.md )
+* [Documentation Interest Group - May 24, 2016 - 3:00 PM Eastern](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/main/meetings/2016/Meeting-Notes-2016-05-24.md )
 * Approved, with the change of making it clear that [DIG] is the prefix to use in the emails to the general Islandora list.
 
 ## 2) Action items from the last meeting

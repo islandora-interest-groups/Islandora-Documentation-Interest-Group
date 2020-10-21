@@ -7,7 +7,7 @@
 
 ## 1) Approve minutes from last time
 * Minutes approved
-* [Documentation Interest Group - February 23, 2016 - 3:00 PM Eastern](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2016/Meeting-Notes-2016-02-23.md)
+* [Documentation Interest Group - February 23, 2016 - 3:00 PM Eastern](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/main/meetings/2016/Meeting-Notes-2016-02-23.md)
 
 
 ## 2) Documentation tip sheet for release

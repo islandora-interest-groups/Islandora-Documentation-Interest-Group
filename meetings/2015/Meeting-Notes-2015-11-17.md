@@ -11,7 +11,7 @@
 
 ## 1) Approve minutes from last time
 
-* [Minutes](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2015/Meeting-Notes-2015-10-27.md) approved
+* [Minutes](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/main/meetings/2015/Meeting-Notes-2015-10-27.md) approved
 
 
 ## 2) Contribute Page

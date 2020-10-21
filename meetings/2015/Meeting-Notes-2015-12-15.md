@@ -9,7 +9,7 @@
 
 ## 1) Approved minutes from last time
 
-* [Minutes](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/master/meetings/2015/Meeting-Notes-2015-11-17.md)
+* [Minutes](https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/blob/main/meetings/2015/Meeting-Notes-2015-11-17.md)
 
 ## 2) Contribute Page
 * Becky sent an email to the group with the updated DuraSpace wiki page, but separate changes were made to the [contribute page in the 7.x-1.6 version](https://wiki.duraspace.org/display/ISLANDORA/Contribute) of the wiki, so the changes need to be merged.
