@@ -1,9 +1,9 @@
 # Islandora-Documentation-Interest-Group
 
-## 2020 Convenors
-* Melissa Anez (Islandora Foundation)
+## 2021 Convenors
+* Melissa Anez (LYRASIS)
 * Mirko Hanke (University of Texas at Austin)
-* Jeff Rubin (Tulane University)
+* David Kwasny (University of Toronto Scarborough)
 
 
 ## Terms of Reference
@@ -34,9 +34,9 @@ This interest group meets once a month on (date TBD at the first meeting).
 
 ## Current Membership (To Be Updated 2020)
 
-* Melissa Anez (Islandora Foundation)
+* Melissa Anez (LYRASIS)
 * Mirko Hanke (University of Texas at Austin)
-* Jeff Rubin (Tulane University)
+* David Kwasny (University of Toronto Scarborough)
 
 ## Past Membership
 
@@ -47,5 +47,6 @@ We would like to recognize the contributions of these past members of the Docs I
 * Ernie Gillis
 * Gabriela Mircea (Convenor)
 * Don Richards (Convenor)
+* Jeff Rubin (Convenor)
 * Kirsta Stapelfeldt (Convenor)
 * Becky Yoose
