@@ -10,6 +10,8 @@
 ## Documentation (writing) sprint
 * May 19-June 2
 * Documentation instructions: https://docs.google.com/spreadsheets/d/1E-kRw9xE60CKK0qL1-phzeVKjEZu3qBKZ9d3LH1hDEE/edit#gid=551461543
+* 10 participants
+* 17 PRs created during sprint period
 
 ## Things to consider for next time
 * possibly shorten audit sprint to 1 week
