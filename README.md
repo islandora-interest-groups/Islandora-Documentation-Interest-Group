@@ -43,7 +43,7 @@ We would like to recognize the contributions of these past members of the Docs I
 * Kelli Babcock
 * Bryan Brown
 * Ernie Gillis
-* David Kwasny
+* David Kwasny (Convenor)
 * Gabriela Mircea (Convenor)
 * Don Richards (Convenor)
 * Jeff Rubin (Convenor)
