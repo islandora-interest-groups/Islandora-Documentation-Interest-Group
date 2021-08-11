@@ -21,7 +21,7 @@ Specific goals, activities, and outcomes include:
 
 This interest group meets once a month on the second Wednesday.
 * Convenor(s) will call meetings when needed and share meeting agendas on the Islandora community mailing list.
-* Meetings are held on Zoom. To join a meeting click the link in the meeting agenda.
+* Meetings are held on Zoom. To join a meeting click the link in the meeting agenda (https://github.com/islandora-interest-groups/Islandora-Documentation-Interest-Group/tree/main/meetings).
 * A convenor will appoint a note taker for the meeting and meeting notes will be made available online after the meeting.
 * A convenor will submit occasional reports on interest group activities to the Islandora Coordinating Committee.
 
