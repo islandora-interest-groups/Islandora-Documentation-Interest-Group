@@ -2,7 +2,7 @@
 
 ## 2021 Convenors
 * Melissa Anez (LYRASIS)
-* Amy Blau (Whitman College)
+* Yamil Suarez (Berklee College)
 * Mirko Hanke (University of Texas at Austin)
 
 ## Terms of Reference
