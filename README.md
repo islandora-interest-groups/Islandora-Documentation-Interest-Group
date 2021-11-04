@@ -35,6 +35,8 @@ This interest group meets once a month on the second Wednesday.
 * Melissa Anez (LYRASIS)
 * Amy Blau (Whitman College)
 * Mirko Hanke (University of Texas at Austin)
+* Rosie Le Faive (UPEI Library)
+* Yamil Suarez (Berklee College)
 
 ## Past Membership
 
