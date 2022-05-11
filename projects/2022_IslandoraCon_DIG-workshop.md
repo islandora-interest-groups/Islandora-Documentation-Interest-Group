@@ -9,13 +9,13 @@ CfP form: https://forms.gle/BhAh5Ch27J5XvvmS8
 * ~~Presentation (30 minutes in duration)~~
 
 ## Presenters
-Name, title, and institutional affiliation of all who would be presenting in this session
+_Name, title, and institutional affiliation of all who would be presenting in this session_
 
 ## Session name
 Documentation Interest Group Doc-a-thon primer
 
 ## Short description
-Please provide a short description of your proposed session (can be an abstract, or a few sentences)
+_Please provide a short description of your proposed session (can be an abstract, or a few sentences)_
 
 The Islandora Documentation Interest Group (DIG) welcomes all, technical and non-developer, newbies and veterans, to help build better documentation. Join us for a 1-hour workshop providing the tools for creating and editing documentation. 
   * Intro: About DIG
