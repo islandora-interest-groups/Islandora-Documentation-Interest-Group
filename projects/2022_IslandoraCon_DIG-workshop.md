@@ -17,7 +17,7 @@ Documentation Interest Group Doc-a-thon primer
 ## Short description
 _Please provide a short description of your proposed session (can be an abstract, or a few sentences)_
 
-The Islandora Documentation Interest Group (DIG) welcomes all, technical and non-developer, newbies and veterans, to help build better documentation. Join us for a 1-hour workshop providing the tools for creating and editing documentation. 
+The Islandora Documentation Interest Group (DIG) welcomes all, technical and non-developer folks, newbies and veterans, to help build better documentation. Join us for a 1-hour workshop providing the tools for creating and editing documentation. 
   * Intro: About DIG
   * Tour of the existing documentation pages
   * Github: how to create an account, how to navigate the documentation repository, how to create issues, how to edit/build/test documentation pages, how to create and merge pull requests
