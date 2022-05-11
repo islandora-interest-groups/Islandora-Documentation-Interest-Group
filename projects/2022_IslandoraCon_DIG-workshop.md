@@ -22,6 +22,7 @@ The Islandora Documentation Interest Group (DIG) welcomes all, technical and non
   * Tour of the existing documentation pages
   * Github: how to create an account, how to navigate the documentation repository, how to create issues, how to edit/build/test documentation pages, how to create and merge pull requests
   * Markdown and MkDocs
+  * Documentation do's and dont's
   * Slack: How to bug developers
 
 ## In-Person/virtual?
