@@ -10,6 +10,8 @@ CfP form: https://forms.gle/BhAh5Ch27J5XvvmS8
 
 ## Presenters
 _Name, title, and institutional affiliation of all who would be presenting in this session_
+* Yamil Suárez; Associate Director of Library Systems & Web Development; Berklee College of Music
+* Mirko Hanke; Head of Preservation and Digital Stewardship; University of Texas Libraries
 
 ## Session name
 Documentation Interest Group Doc-a-thon primer
@@ -23,7 +25,7 @@ The Islandora Documentation Interest Group (DIG) welcomes all, technical and non
   * Github: how to create an account, how to navigate the documentation repository, how to create issues, how to edit/build/test documentation pages, how to create and merge pull requests
   * Markdown and MkDocs
   * Documentation do's and dont's
-  * Slack: How to bug developers
+  * Slack: How to reach out to developers
 
 ## In-Person/virtual?
 * ~~In-person~~
