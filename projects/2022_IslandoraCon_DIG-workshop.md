@@ -24,7 +24,9 @@ The Islandora Documentation Interest Group (DIG) welcomes all, technical and non
   * Documentation do's & dont's
   * Slack: How to reach out to developers
 
-Time permitting: Hands-on collaborative work to improve or audit documentation
+Time permitting: Hands-on collaborative work to improve or audit documentation. 
+
+Note to the programming committee, we can turn the hands-on portion of this session into an additional 2nd hour to this session. Becoming: 1 hour on DIG training/introduction and a second hour of hands-on and collaborative documentation work.
 
 ## In-Person/virtual?
 * unsure
