@@ -1,9 +1,9 @@
 # Islandora-Documentation-Interest-Group
 
 ## 2021 Convenors
-* Melissa Anez (LYRASIS)
 * Yamil Suarez (Berklee College)
 * Mirko Hanke (University of Texas at Austin)
+* 
 
 ## Terms of Reference
 * The name of the interest group is the Islandora Documentation Interest Group (DIG)
@@ -32,7 +32,6 @@ This interest group meets once a month on the second Wednesday.
 
 ## Current Membership
 
-* Melissa Anez (LYRASIS)
 * Amy Blau (Whitman College)
 * Mirko Hanke (University of Texas at Austin)
 * Rosie Le Faive (UPEI Library)
@@ -42,6 +41,7 @@ This interest group meets once a month on the second Wednesday.
 
 We would like to recognize the contributions of these past members of the Docs IG.
 
+* Melissa Anez (Convenor) (LYRASIS)
 * Kelli Babcock
 * Bryan Brown
 * Ernie Gillis
