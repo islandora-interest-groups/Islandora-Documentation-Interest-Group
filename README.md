@@ -1,9 +1,9 @@
 # Islandora-Documentation-Interest-Group
 
-## 2021 Convenors
+## 2023 Convenors
 * Yamil Suarez (Berklee College)
 * Mirko Hanke (University of Texas at Austin)
-* 
+* Annie Oelschlager (Northern Illinois University)
 
 ## Terms of Reference
 * The name of the interest group is the Islandora Documentation Interest Group (DIG)
@@ -36,6 +36,7 @@ This interest group meets once a month on the second Wednesday.
 * Mirko Hanke (University of Texas at Austin)
 * Rosie Le Faive (UPEI Library)
 * Yamil Suarez (Berklee College)
+* Annie Oelschlager (Northern Illinois University)
 
 ## Past Membership
 
