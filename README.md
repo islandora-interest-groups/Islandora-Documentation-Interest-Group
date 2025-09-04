@@ -2,7 +2,6 @@
 
 ## 2023 Convenors
 * Yamil Suarez (Berklee College)
-* Mirko Hanke (University of Texas at Austin)
 * Annie Oelschlager (Northern Illinois University)
 
 ## Terms of Reference
@@ -46,6 +45,7 @@ We would like to recognize the contributions of these past members of the Docs I
 * Kelli Babcock
 * Bryan Brown
 * Ernie Gillis
+* Mirko Hanke (University of Texas at Austin)
 * David Kwasny (Convenor)
 * Gabriela Mircea (Convenor)
 * Don Richards (Convenor)
